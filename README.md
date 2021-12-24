@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Front-end mentor solution](https://your-solution-url.com)
-- Live Site URL: [Fylo dark theme landing page](https://your-live-site-url.com)
+- Solution URL: [Front-end mentor solution](https://www.frontendmentor.io/solutions/fylodarkthemelandingpage-tJTFZR815)
+- Live Site URL: [Fylo dark theme landing page](https://igmominkhan.github.io/fylo-dark-theme-landing-page-master/)
 
 ## My process
 
@@ -36,7 +36,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flex-box
 - Mobile-first workflow
 
 ## Author
