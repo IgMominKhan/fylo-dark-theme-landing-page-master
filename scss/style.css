@@ -448,6 +448,8 @@ footer a[href^="tel:"] {
   */
   #intro {
     background-image: url("../images/bg-curvy-desktop.svg");
+    -webkit-margin-after: -203px;
+            margin-block-end: -203px;
   }
   .hero-heading {
     max-inline-size: 72%;
