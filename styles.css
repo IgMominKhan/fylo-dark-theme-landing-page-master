@@ -1,0 +1,20 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.grid__item:first-of-type {
+  background-color: hsl(90, 100%, 40%);
+}
+.grid__item {
+  background-color: hsl(90, 85%, 50%);
+}
+
+.grid__item:nth-child(3) {
+  background-color: hsl(90, 75%, 50%);
+}
+
+.grid__item:last-of-type {
+  background-color: hsl(90, 65%, 50%);
+}
